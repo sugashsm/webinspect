@@ -19,7 +19,7 @@ WebInspect is a browser forensics tool designed to extract and analyze browser d
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/webinspect.git
+    git clone https://github.com/sugashsm/webinspect
     cd webinspect
     ```
 
